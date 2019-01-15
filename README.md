@@ -6,4 +6,4 @@ Wizarding itself
 	python -m pip install virtualenv
 	python -m virtualenv env
 	source env/Scripts/activate
-	FLASK_APP=app.py flask run
+	./run.sh
